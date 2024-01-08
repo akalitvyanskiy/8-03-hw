@@ -53,9 +53,9 @@
 * скриншоты с успешно собранными сборками.
 
  
+Файл .gitlab-ci.yml
 
 ```
-.gitlab-ci.yml
 stages:
   - test
   - build
